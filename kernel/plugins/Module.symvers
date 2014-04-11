@@ -1,0 +1,2 @@
+0xd469fd6a	pf_ring_inject_packet_to_ring	/root/workspace/sipfish/pfring/kernel/pf_ring	EXPORT_SYMBOL
+0x2bc09a00	pf_ring_add_module_dependency	/root/workspace/sipfish/pfring/kernel/pf_ring	EXPORT_SYMBOL
